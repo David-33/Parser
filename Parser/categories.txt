@@ -1,0 +1,269 @@
+https://eda.ru/recepty/zagotovki Заготовки  52
+https://eda.ru/recepty/solenia-i-koncervacia Соленья и консервация  154
+https://eda.ru/recepty/varenie Варенье  124
+https://eda.ru/recepty/salaty-na-zimy Салаты на зиму  21
+https://eda.ru/recepty/salaty Салаты  5584
+https://eda.ru/recepty/ovosnije-salati Овощные салаты  1108
+https://eda.ru/recepty/salat-s-kuricej Салаты с курицей  560
+https://eda.ru/recepty/fruktovije-salati Фруктовые салаты  356
+https://eda.ru/recepty/teplije-salati Теплые салаты  243
+https://eda.ru/recepty/sloenije-salati Слоеные салаты  134
+https://eda.ru/recepty/vinegret Винегрет  123
+https://eda.ru/recepty/mjasnije-salati Мясные салаты  98
+https://eda.ru/recepty/salat-olivje Оливье  92
+https://eda.ru/recepty/salat-cezar Салат «Цезарь»  91
+https://eda.ru/recepty/mimoza Мимоза  32
+https://eda.ru/recepty/grecheskij-salat Греческий салат  31
+https://eda.ru/recepty/salat-korejskij Салаты корейские  8
+https://eda.ru/recepty/pasta-picca Паста и пицца  2036
+https://eda.ru/recepty/pasta-karbonara Паста карбонара  78
+https://eda.ru/recepty/ravioli Равиоли  72
+https://eda.ru/recepty/testo-dlya-pizzj Тесто для пиццы  53
+https://eda.ru/recepty/bolonjeze Болоньезе  38
+https://eda.ru/recepty/zakuski Закуски  6113
+https://eda.ru/recepty/gorjachie-zakuski Горячие закуски  5444
+https://eda.ru/recepty/pashtet Паштеты  160
+https://eda.ru/recepty/dip Дип  95
+https://eda.ru/recepty/fritata Фриттата  78
+https://eda.ru/recepty/humus Хумус  75
+https://eda.ru/recepty/chipsi Чипсы  61
+https://eda.ru/recepty/karpacho Карпаччо  60
+https://eda.ru/recepty/kanape Канапе  46
+https://eda.ru/recepty/guakamole Гуакамоле  46
+https://eda.ru/recepty/baklazhannaya-ikra Баклажанная икра  36
+https://eda.ru/recepty/takos Такос  34
+https://eda.ru/recepty/forshmak Форшмак  31
+https://eda.ru/recepty/kesadilja Кесадилья  25
+https://eda.ru/recepty/zalivnoe Заливное  23
+https://eda.ru/recepty/lobio Лобио  21
+https://eda.ru/recepty/kabachkovaya-ikra Кабачковая икра  19
+https://eda.ru/recepty/sacivi Сациви  17
+https://eda.ru/recepty/syrnoe-fondu Сырное фондю  17
+https://eda.ru/recepty/lecho Лечо  16
+https://eda.ru/recepty/holodec Холодец  14
+https://eda.ru/recepty/zakusochnije-torti Закусочные торты  11
+https://eda.ru/recepty/basturma Бастурма  5
+https://eda.ru/recepty/rizotto Ризотто  275
+https://eda.ru/recepty/napitki Напитки  2308
+https://eda.ru/recepty/koktejli Коктейли  641
+https://eda.ru/recepty/smuzi Смузи  379
+https://eda.ru/recepty/koktejli-alkogoljnije Коктейли алкогольные  214
+https://eda.ru/recepty/limonad Лимонад  136
+https://eda.ru/recepty/molochnyj-kokteil Молочный коктейль  77
+https://eda.ru/recepty/kompoti Компоты  74
+https://eda.ru/recepty/punjsh Пунш  72
+https://eda.ru/recepty/goryachij-shokolad Горячий шоколад  64
+https://eda.ru/recepty/cocktails-with-rum Коктейли с ромом  49
+https://eda.ru/recepty/cocktails-with-gin Коктейли с джином  49
+https://eda.ru/recepty/cocktails-with-vodka Коктейли с водкой  48
+https://eda.ru/recepty/koktejli-bezalkogoljnije Коктейли безалкогольные  47
+https://eda.ru/recepty/glintvein Глинтвейн  42
+https://eda.ru/recepty/likjori Ликеры  39
+https://eda.ru/recepty/cocktails-with-wine Коктейли с вином  38
+https://eda.ru/recepty/cocktails-with-whiskey Коктейли с виски  34
+https://eda.ru/recepty/mohito Мохито  28
+https://eda.ru/recepty/cocktails-with-brandy Коктейли с бренди  26
+https://eda.ru/recepty/kiselj Кисель  23
+https://eda.ru/recepty/cocktails-with-tequila Коктейли с текилой  19
+https://eda.ru/recepty/sangriya Сангрия  19
+https://eda.ru/recepty/grog Грог  16
+https://eda.ru/recepty/kvas Квас  14
+https://eda.ru/recepty/mors Морс  14
+https://eda.ru/recepty/sbitenj Сбитень  11
+https://eda.ru/recepty/nalivka Наливка  8
+https://eda.ru/recepty/sidr Сидр  7
+https://eda.ru/recepty/vypechka-deserty Выпечка и десерты  13963
+https://eda.ru/recepty/pirogi Пироги  2234
+https://eda.ru/recepty/torty Торты  1197
+https://eda.ru/recepty/pechenye Печенье  1100
+https://eda.ru/recepty/keksi Кексы  648
+https://eda.ru/recepty/bliny Блины  536
+https://eda.ru/recepty/hleb Хлеб  533
+https://eda.ru/recepty/morozhenoye Мороженое  429
+https://eda.ru/recepty/oladji Оладьи  404
+https://eda.ru/recepty/pirozhnoje Пирожное  341
+https://eda.ru/recepty/maffiny Маффины  331
+https://eda.ru/recepty/puding Пудинг  307
+https://eda.ru/recepty/pirozhki Пирожки  276
+https://eda.ru/recepty/chizkeik Чизкейк  241
+https://eda.ru/recepty/bulochki Булочки  227
+https://eda.ru/recepty/konfeti Конфеты  196
+https://eda.ru/recepty/muss Мусс  159
+https://eda.ru/recepty/suflje Суфле  155
+https://eda.ru/recepty/sladkije-ruleti Сладкие рулеты  135
+https://eda.ru/recepty/brownie Брауни  134
+https://eda.ru/recepty/sharlotka Шарлотка  126
+https://eda.ru/recepty/biskvit Бисквит  125
+https://eda.ru/recepty/lepjoshki Лепешки  124
+https://eda.ru/recepty/kish Киш  105
+https://eda.ru/recepty/krem Крем  100
+https://eda.ru/recepty/tartaletki Тарталетки  98
+https://eda.ru/recepty/kapkeik Капкейк  95
+https://eda.ru/recepty/tiramisu Тирамису  94
+https://eda.ru/recepty/kulichi Куличи  82
+https://eda.ru/recepty/pankeik Панкейки  82
+https://eda.ru/recepty/shtrudelj Штрудель  74
+https://eda.ru/recepty/sorbet Сорбет  70
+https://eda.ru/recepty/vafli Вафли  70
+https://eda.ru/recepty/testo-dlja-pirozkov Тесто для пирожков  67
+https://eda.ru/recepty/ponchiki Пончики  65
+https://eda.ru/recepty/pesochnoje-pechenje Песочное печенье  62
+https://eda.ru/recepty/prjaniki Пряники  57
+https://eda.ru/recepty/hachapuri Хачапури  54
+https://eda.ru/recepty/grenki Гренки  51
+https://eda.ru/recepty/mannik Манник  50
+https://eda.ru/recepty/galeti Галеты  49
+https://eda.ru/recepty/biskoti Бискотти  47
+https://eda.ru/recepty/ekljeri Эклеры  43
+https://eda.ru/recepty/krekeri Крекеры  37
+https://eda.ru/recepty/slojki Слойки  33
+https://eda.ru/recepty/vatrushki Ватрушки  32
+https://eda.ru/recepty/zefir Зефир  32
+https://eda.ru/recepty/kruassani Круассаны  29
+https://eda.ru/recepty/tvorozhnij-tort Творожный торт  26
+https://eda.ru/recepty/rogaliki Рогалики  26
+https://eda.ru/recepty/paskha Пасха  25
+https://eda.ru/recepty/kovrizhka Коврижка  23
+https://eda.ru/recepty/fokacha Фокачча  23
+https://eda.ru/recepty/trubochki Трубочки  22
+https://eda.ru/recepty/kurnik Курник  21
+https://eda.ru/recepty/pahlava Пахлава  20
+https://eda.ru/recepty/profitroli Профитроли  20
+https://eda.ru/recepty/tvorozhniki Творожники  19
+https://eda.ru/recepty/glazurj Глазурь  18
+https://eda.ru/recepty/korzhiki Коржики  17
+https://eda.ru/recepty/pastila Пастила  16
+https://eda.ru/recepty/hvorost Хворост  15
+https://eda.ru/recepty/bubliki Бублики  14
+https://eda.ru/recepty/pirozhnoye-madlen Пирожное «Мадлен»  13
+https://eda.ru/recepty/pljushki Плюшки  13
+https://eda.ru/recepty/beljashi Беляши  11
+https://eda.ru/recepty/samsa Самса  10
+https://eda.ru/recepty/pesochnij-tort Песочный торт  9
+https://eda.ru/recepty/achma Ачма  9
+https://eda.ru/recepty/tort-sufle Торт-суфле  9
+https://eda.ru/recepty/kuljebjaka Кулебяка  8
+https://eda.ru/recepty/knedliki Кнедлики  4
+https://eda.ru/recepty/rastegaj Расстегаи  2
+https://eda.ru/recepty/osnovnye-blyuda Основные блюда  12686
+https://eda.ru/recepty/zapekanka Запеканка  591
+https://eda.ru/recepty/kotlety Котлеты  463
+https://eda.ru/recepty/pjure Пюре  256
+https://eda.ru/recepty/lapsha Лапша  251
+https://eda.ru/recepty/shashlyk Шашлык  215
+https://eda.ru/recepty/steik Стейки  213
+https://eda.ru/recepty/plov Плов  176
+https://eda.ru/recepty/rolli Роллы  159
+https://eda.ru/recepty/zarkoe Жаркое  126
+https://eda.ru/recepty/lazanja Лазанья  126
+https://eda.ru/recepty/perec-farshirovannij Перец фаршированный  102
+https://eda.ru/recepty/vareniki Вареники  91
+https://eda.ru/recepty/ovoshchnoye-ragu Овощное рагу  83
+https://eda.ru/recepty/tefteli Тефтели  82
+https://eda.ru/recepty/graten Гратен  80
+https://eda.ru/recepty/frikadeljki Фрикадельки  80
+https://eda.ru/recepty/otbivnije Отбивные  79
+https://eda.ru/recepty/golubci Голубцы  75
+https://eda.ru/recepty/peljmeni Пельмени  68
+https://eda.ru/recepty/deruni Деруны  62
+https://eda.ru/recepty/zuljen Жульен  59
+https://eda.ru/recepty/gulyash Гуляш  59
+https://eda.ru/recepty/paelja Паэлья  52
+https://eda.ru/recepty/sote Соте  51
+https://eda.ru/recepty/kebab Кебаб  47
+https://eda.ru/recepty/ratatuj Рататуй  47
+https://eda.ru/recepty/zrazi Зразы  47
+https://eda.ru/recepty/shaurma Шаурма  34
+https://eda.ru/recepty/shnicelj Шницель  33
+https://eda.ru/recepty/burrito Буррито  33
+https://eda.ru/recepty/musaka Мусака  32
+https://eda.ru/recepty/klecki Клецки  28
+https://eda.ru/recepty/manti Манты  27
+https://eda.ru/recepty/bitochki Биточки  27
+https://eda.ru/recepty/bifshteks Бифштекс  26
+https://eda.ru/recepty/chahohbili Чахохбили  23
+https://eda.ru/recepty/befstroganov Бефстроганов  23
+https://eda.ru/recepty/ciplenok-tabaka Цыпленок табака  22
+https://eda.ru/recepty/dolma Долма  22
+https://eda.ru/recepty/frikase Фрикасе  20
+https://eda.ru/recepty/eskalop Эскалоп  19
+https://eda.ru/recepty/hinkali Хинкали  19
+https://eda.ru/recepty/mjaso-po-francuzski Мясо по-французски  16
+https://eda.ru/recepty/ljulja-kebab Люля-кебаб  16
+https://eda.ru/recepty/buzenina Буженина  15
+https://eda.ru/recepty/adzapsandal Аджапсандал  13
+https://eda.ru/recepty/azu Азу  12
+https://eda.ru/recepty/galushki Галушки  10
+https://eda.ru/recepty/pechenochiy-tort Печеночный торт  10
+https://eda.ru/recepty/beshbarmak Бешбармак  7
+https://eda.ru/recepty/chanahi Чанахи  7
+https://eda.ru/recepty/brizolj Бризоль  4
+https://eda.ru/recepty/hashlama Хашлама  4
+https://eda.ru/recepty/mamaliga Мамалыга  3
+https://eda.ru/recepty/bulony Бульоны  129
+https://eda.ru/recepty/kurinij-buljon Куриный бульон  63
+https://eda.ru/recepty/ovosnoj-buljon Овощной бульон  40
+https://eda.ru/recepty/zavtraki Завтраки  2495
+https://eda.ru/recepty/kashi Каши  457
+https://eda.ru/recepty/omlet Омлет  366
+https://eda.ru/recepty/syrniki Сырники  173
+https://eda.ru/recepty/yaichnica Яичница  172
+https://eda.ru/recepty/tvorozhnije-zapekanki Творожные запеканки  154
+https://eda.ru/recepty/draniki Драники  57
+https://eda.ru/recepty/myusli Мюсли  36
+https://eda.ru/recepty/supy Супы  3537
+https://eda.ru/recepty/sup-pjure Суп-пюре  392
+https://eda.ru/recepty/krem-sup Крем-суп  336
+https://eda.ru/recepty/gorohovyj-sup Гороховый суп  163
+https://eda.ru/recepty/borsch Борщ  150
+https://eda.ru/recepty/tomatnij-sup Томатный суп  148
+https://eda.ru/recepty/holodnij-sup-pjure Холодные супы  140
+https://eda.ru/recepty/gribnoj-sup Грибной суп  138
+https://eda.ru/recepty/gaspacho Гаспачо  95
+https://eda.ru/recepty/kartofeljnij-sup Картофельный суп  92
+https://eda.ru/recepty/syrnyj-sup Сырный суп  90
+https://eda.ru/recepty/shhi Щи  73
+https://eda.ru/recepty/lukovij-sup Луковый суп  72
+https://eda.ru/recepty/solyanka Солянка  71
+https://eda.ru/recepty/okroshka Окрошка  53
+https://eda.ru/recepty/uha Уха  52
+https://eda.ru/recepty/risovij-sup Рисовый суп  45
+https://eda.ru/recepty/rassolnik Рассольник  43
+https://eda.ru/recepty/pohlebka Похлебка  37
+https://eda.ru/recepty/minestrone Минестроне  35
+https://eda.ru/recepty/soup-harcho Суп «Харчо»  32
+https://eda.ru/recepty/svekolnik Свекольник  31
+https://eda.ru/recepty/molochnij-sup Молочный суп  30
+https://eda.ru/recepty/miso Мисо  26
+https://eda.ru/recepty/lagman Лагман  13
+https://eda.ru/recepty/shurpa Шурпа  13
+https://eda.ru/recepty/tarator Таратор  9
+https://eda.ru/recepty/kapustnjak Капустняк  8
+https://eda.ru/recepty/bujabes Буйабес  6
+https://eda.ru/recepty/bozbash Бозбаш  6
+https://eda.ru/recepty/kulesh Кулеш  2
+https://eda.ru/recepty/sendvichi Сэндвичи  663
+https://eda.ru/recepty/tosty Тосты  144
+https://eda.ru/recepty/klubnyj-sendvitch Клубный сэндвич  141
+https://eda.ru/recepty/gamburger Гамбургер  105
+https://eda.ru/recepty/brusketta Брускетта  85
+https://eda.ru/recepty/chizburger Чизбургер  14
+https://eda.ru/recepty/hot-dog Хот-дог  14
+https://eda.ru/recepty/panini Панини  6
+https://eda.ru/recepty/krok-mesje Крок-месье  6
+https://eda.ru/recepty/krok-madam Крок-мадам  5
+https://eda.ru/recepty/sousy-marinady Соусы и маринады  1434
+https://eda.ru/recepty/majonez Майонез  79
+https://eda.ru/recepty/tomatnij-sous Томатный соус  79
+https://eda.ru/recepty/pesto Соус «Песто»  46
+https://eda.ru/recepty/gribnoj-sous Грибной соус  33
+https://eda.ru/recepty/gorchica Горчица  28
+https://eda.ru/recepty/beshamel Соус «Бешамель»  27
+https://eda.ru/recepty/syrnyj-sous Сырный соус  26
+https://eda.ru/recepty/barbekju Барбекю  25
+https://eda.ru/recepty/tartar Соус «Тартар»  23
+https://eda.ru/recepty/sous-cezar Соус «Цезарь»  21
+https://eda.ru/recepty/chesnochnij-sous Чесночный соус  20
+https://eda.ru/recepty/adzika Аджика  19
+https://eda.ru/recepty/ketcup Кетчуп  10
+https://eda.ru/recepty/tkemali Ткемали  7
